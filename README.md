@@ -5,50 +5,6 @@
 ## Project Overview
 #### The automation script will cover navigation, search functionalities, service selection, and interaction with the website's user interface.
 
-## Step-by-Step Instructions
-
-**1)Navigate to www.transperfect.com .**
-
-**2)If a popup appears, close it.**
-
-**3)Click on the "Industries" option in the top navigation.**
-
-**4)Click on "Retail & E-commerce."**
-
-**5)Wait for 5 seconds.**
-
-**6)Scroll down until the "Client Stories" section is visible.**
-
-**7)Click the search icon in the top navigation.**
-
-**8)Type "translation" into the search box.**
-
-**9)Remove the text from the search box.**
-
-**10)Enter "quote" into the search box.**
-
-**11)Allow time for "Request a Free Quote" to appear.**
-
-**12)Click on the "Request a Free Quote" link.**
-
-**13)Hover over "Website Localization" to view the description popup.**
-
-**14)Check the boxes for "Translation Services" and "Legal Services."**
-
-**15)Enter a first name in the designated field.**
-
-**16)Create a random number and input it in the Telephone field.**
-
-**17)Capture a screenshot of the current page and save it to your desktop.**
-
-**18)Switch the website language from English to Italian.**
-
-**19)Open the "Solutions" (Soluzioni) page in a new tab.**
-
-**20)Navigate to the newly opened tab.**
-
-**21)Exit the browser.**
- 
  ## Technologies and Tools
 
 *1. Programming Language :* Java
