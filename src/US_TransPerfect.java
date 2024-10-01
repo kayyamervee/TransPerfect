@@ -6,8 +6,6 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
-import java.awt.*;
-
 import java.io.File;
 import java.io.IOException;
 import java.time.LocalDateTime;
@@ -23,7 +21,7 @@ public class US_TransPerfect extends BaseDriver {
     long randomNumber = ThreadLocalRandom.current().nextLong(10000000000L, 100000000000L);
 
     @Test
-    public void transPerfect() throws InterruptedException, IOException, AWTException {
+    public void transPerfect() throws IOException {
         //1-Go to www.transperfect.com
         driver.get("https://www.transperfect.com/");
         wait.until(ExpectedConditions.urlToBe("https://www.transperfect.com/"));
