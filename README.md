@@ -1,6 +1,4 @@
-## Software Testing Project - Web Automation Guide for TransPerfect
-#### **This project is for educational purposes and is intended to help participants test their own skills.*
-#### This document provides a comprehensive guide to automating a sequence of actions on the TransPerfect website, specifically targeting the Retail & E-commerce sector.
+# Software Testing Task 
 
 ## Project Overview
 #### The automation script will cover navigation, search functionalities, service selection, and interaction with the website's user interface.
