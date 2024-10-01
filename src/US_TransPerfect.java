@@ -163,7 +163,7 @@ public class US_TransPerfect extends BaseDriver {
 
         //21-Close the browser
         wait.until(ExpectedConditions.urlToBe("https://www.transperfect.com/it/solutions"));
-        driver.quit();
+        driver.close();
 
         tearDown();
     }
