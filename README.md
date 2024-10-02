@@ -1,4 +1,4 @@
-# Software Testing Task 
+# Software Testing Task -TransPerfect
 
 ## Project Overview
 #### The automation script will cover navigation, search functionalities, service selection, and interaction with the website's user interface.
