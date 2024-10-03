@@ -34,7 +34,7 @@ git clone https://github.com/kayyamervee/TransPerfect.git
   
 | Contributor                                               | Role                                  |
 |-----------------------------------------------------------|---------------------------------------|       
-| [Merve Kaya](https://github.com/kayyamervee)              | Project Lead & QA Automation Engineer |   
+| [Merve Kaya](https://github.com/kayyamervee)              |       QA Automation Engineer          |   
 
 
 
